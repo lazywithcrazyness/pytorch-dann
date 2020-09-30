@@ -46,3 +46,8 @@ A PyTorch implementation for paper *[Unsupervised Domain Adaptation by Backpropa
 - <https://github.com/fungtion/DANN>
 - <https://github.com/corenel/torchsharp>
 - <https://github.com/corenel/pytorch-starter-kit>
+
+overall its good
+Ibut 'm a beginner and literally i'm not understanding as much as i expect , overall it is good , but try to make it beginner friendly
+please accept my change it will be very helpful
+thanks sir
